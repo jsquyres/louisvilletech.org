@@ -1,4 +1,4 @@
-# LouisvilleTech.org [<img src="http://slackin.louisvilletech.org/badge.svg">](http://slackin.louisvilletech.org)
+# LouisvilleTech.org [<img src="http://slackin.louisvilletech.org/badge.jpg">](http://slackin.louisvilletech.org)
 
 Software to generate a consolidated directory and calendar of technology user groups and meetups.
 
